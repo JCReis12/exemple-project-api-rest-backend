@@ -2,6 +2,11 @@
 
 API REST simples para criar, listar, editar e excluir notas. Os dados são armazenados no arquivo `data.json`.
 
+## Acesso online
+
+- API publicada: [https://exemple-project-api-rest-backend.onrender.com](https://exemple-project-api-rest-backend.onrender.com)
+- Lista de notas: [https://exemple-project-api-rest-backend.onrender.com/api/notes](https://exemple-project-api-rest-backend.onrender.com/api/notes)
+
 ## Pré-requisitos
 
 - Node.js instalado
