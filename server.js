@@ -94,4 +94,5 @@ app.delete('/api/notes/:id', (req, res) => {
 // ====================
 app.listen(PORT, () => {
   console.log('Servidor rodando em http://localhost:3000');
+  console.log('Para visualização das listas: http://localhost:3000/api/notes');
 });
